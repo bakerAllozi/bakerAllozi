@@ -49,6 +49,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://images.app.goo.gl/kVKb7WxWRpqL3Guq6" alt="Tailwind CSS" width="40" height="40" />
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
