@@ -35,9 +35,9 @@
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-ar21.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   
-  <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-official.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
