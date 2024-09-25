@@ -36,7 +36,7 @@
 
 <h3 align="left">Technologies I use:</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="Supabase" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="React Router" width="80" height="80" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40" />
@@ -49,7 +49,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://images.app.goo.gl/kVKb7WxWRpqL3Guq6" alt="Tailwind CSS" width="40" height="40" />
+
+  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
