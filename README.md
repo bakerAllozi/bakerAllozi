@@ -18,6 +18,7 @@
 </p>
 
 - 🔭 I’m currently workingti Find training
+-all my project is here ✨
 - 🌱 I’m currently learning **React / HTML / CSS / JS (ES6)**
 - React libraries I use: Redux + RTK | React Router | Context API | Tailwind CSS | Axios | react query | Framer Motion | React Hook Form
 - Things I plan to learn and have the foundations: Next.js | Node.js | Firebase
