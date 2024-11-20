@@ -19,14 +19,14 @@
 
 - 🔭 I’m currently workingti Find training
 -all my project is here ''
-- 🌱 I’m currently learning **React / HTML / CSS / JS (ES6)**
+- 🌱 I’m currently learning :React|Next| HTML| CSS| JS | (+ES6)|c++|python
 - React libraries I use: Redux + RTK | React Router | Context API | Tailwind CSS | Axios | react query | Framer Motion | React Hook Form
-- Things I plan to learn and have the foundations: Next.js | Node.js | Firebase
+- Things I plan to learn and have the foundations:  Node.js | Ts
 - Things I can handle: Figma
 
 - 📫 How to reach me **bakerdes654@gmail.com**
 
-- 📄 Know about my experiences **I built my programming knowledge from university, YouTube, Udemy, and official websites and conventions for programming languages. I have solved many programming problems in many dynamic and static languages. I have knowledge of data structures and algorithms that I need in my field. I have many projects that show that I understand my field well, and there are more to come.**
+- 📄 Know about my experiences **I built my programming knowledge from university, YouTube, Udemy, and official websites and conventions for programming languages. I have solved many programming problems in many dynamic and static languages I have knowledge of data structures and algorithms that I need in my field. I have many projects that show that I understand my field well, and there are more to come.**
 
 
 
