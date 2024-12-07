@@ -20,7 +20,7 @@
 - 🛠️ **What I’m Working On**:  
   - Developing **large-scale full-stack projects** with seamless integration of frontend and backend systems.  
   - Connecting **multiple applications** with shared databases to create robust and scalable solutions.  
-  - Adding advanced features like **real-time chat** and **presence tracking**.
+  - Adding advanced features like **real-time chat**.
 
 ---
 
@@ -48,7 +48,7 @@
 ---
 
 ### 📫 How to Reach Me:
-- Email: **bakerdes654@gmail.com**
+- Email: **broomogf@gmail.com**
 - Discord: [Join My Server](https://discord.gg/1089600508643246100)
 
 ---
