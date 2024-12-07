@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bakerAllozi&theme=darkhub&column=3&rank=SECRET,SSS,SS" alt="bakerAllozi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bakerAllozi&theme=darkhub&column=6&margin-w=15&margin-h=15" alt="bakerAllozi trophies" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 - 🛠️ **What I’m Working On**:  
   - Developing **large-scale full-stack projects** with seamless integration of frontend and backend systems.  
   - Connecting **multiple applications** with shared databases to create robust and scalable solutions.  
-  - Adding advanced features like **real-time chat**.
+  - Adding advanced features like **real-time chat** and **presence tracking**.
 
 ---
 
@@ -47,6 +47,15 @@
 
 ---
 
+### 🏆 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bakerAllozi&show_icons=true&theme=dark" alt="bakerAllozi GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakerAllozi&theme=dark" alt="bakerAllozi streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakerAllozi&layout=compact&theme=dark" alt="bakerAllozi top languages" />
+</p>
+
+---
+
 ### 📫 How to Reach Me:
 - Email: **broomogf@gmail.com**
 - Discord: [Join My Server](https://discord.gg/1089600508643246100)
@@ -67,3 +76,7 @@ I’ve built my programming knowledge through:
 - Create innovative tools and applications that solve real-world problems.
 
 ---
+
+### 🎉 Fun Fact:
+- I'm always ready to tackle new challenges and learn cutting-edge technologies!
+- I love solving coding problems and building systems that make life easier.
