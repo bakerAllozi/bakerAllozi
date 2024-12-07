@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baker Allozi</h1>
-<h3 align="center">A frontend developer from Jordan</h3>
+<h3 align="center">A skilled frontend developer from Jordan 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bakerallozi&label=Profile%20views&color=0e75b6&style=flat" alt="bakerallozi" />
@@ -11,14 +11,27 @@
   </a>
 </p>
 
-<h3 align="left">Technologies I use:</h3>
+---
+
+### 🔥 About Me:
+
+- 🌟 **A Frontend Specialist**: I always use **React.js** and modern technologies like **Next.js** to build responsive and high-performing web apps.
+- 📚 **Currently Learning**: react,redux,next, and real-time systems with Supabase.
+- 🛠️ **What I’m Working On**:  
+  - Developing **large-scale full-stack projects** with seamless integration of frontend and backend systems.  
+  - Connecting **multiple applications** with shared databases to create robust and scalable solutions.  
+  - Adding advanced features like **real-time chat** .
+
+---
+
+### 🚀 Technologies I Use:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="React Router" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg" alt="Axios" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="Chakra UI" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
@@ -32,9 +45,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/1089600508643246100" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+---
+
+### 📫 How to Reach Me:
+- Email: **bakerdes654@gmail.com**
+- Discord: [Join My Server](https://discord.gg/1089600508643246100)
+
+---
+
+### 💼 Experience:
+I’ve built my programming knowledge through:
+- University studies
+- Online platforms like YouTube, Udemy, and official documentation
+- Building real-world projects that showcase my expertise in web development and problem-solving.
+
+---
+
+### 🔮 Future Goals:
+- Master backend development and become a **top-level Node.js consultant**.
+- Build complex systems with testing, security, and scalable deployment strategies.
+- Create innovative tools and applications that solve real-world problems.
+
+---
+
