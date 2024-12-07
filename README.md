@@ -44,16 +44,6 @@
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
 </p>
-
----
-
-### 🏆 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakerAllozi&show_icons=true&theme=dark" alt="bakerAllozi GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakerAllozi&theme=dark" alt="bakerAllozi streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakerAllozi&layout=compact&theme=dark" alt="bakerAllozi top languages" />
-</p>
-
 ---
 
 ### 📫 How to Reach Me:
