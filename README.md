@@ -13,7 +13,7 @@
 
 ---
 
-### 🔥 About Me:
+### 🟢 About Me:
 
 - 🌟 **A Frontend Specialist**: I always use **React.js** and modern technologies like **Next.js** to build responsive and high-performing web apps.
 - 📚 **Currently Learning**: React, Redux, Next.js, and real-time systems with Supabase.
