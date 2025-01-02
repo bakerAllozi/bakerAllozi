@@ -47,8 +47,8 @@
 ---
 
 ### 📫 How to Reach Me:
-- Email: **broomogf@gmail.com**
-- Discord: [Join My Server](https://discord.gg/1089600508643246100)
+- Email: **...@gmail.com**
+- Discord: [Join My Server](...)
 
 ---
 
