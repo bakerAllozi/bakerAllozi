@@ -57,6 +57,8 @@ I’ve built my programming knowledge through:
 - University studies
 - Online platforms like YouTube, Udemy, and official documentation
 - Building real-world projects that showcase my expertise in web development and problem-solving.
+- Managing a team to build an open source project
+- 
 
 ---
 
