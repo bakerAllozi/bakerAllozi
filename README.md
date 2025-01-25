@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Baker Allozi</h1>
+<h3 align="center">A skilled frontend developer from Jordan 🚀</h3>
 
-<!--
-**bakerAllozi/bakerAllozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4  align="center"> Skilled in JavaScript,Typescript,React,Next.js,Redux.js, and diverse React libraries. A versatile software developer who started with Kotlin in 2020, moved on to C++ and Python for tackling problem-solving and data structures, and has been passionately focused on web development since 2022.</h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bakerAllozi&label=Profile%20views&color=0e75b6&style=flat" alt="bakerAllozi" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bakerAllozi&theme=darkhub&column=6&margin-w=15&margin-h=15" alt="bakerAllozi trophies" />
+  </a>
+</p>
+
+---
+
+### 🟢 About Me:
+- 🌟 **A Frontend Specialist**: I always use **React.js** and modern technologies like **Next.js** to build responsive and high-performing web apps.
+- 📚 **Currently Learning**: React, Redux, Next.js, and real-time systems with Supabase.
+- 🛠️ **What I’m Working On**:  
+  - Developing **large-scale full-stack projects** with seamless integration of frontend and backend systems.  
+  - Connecting **multiple applications** with shared databases to create robust and scalable solutions.  
+  - Adding advanced features like **real-time chat** and **presence tracking**.
+
+
+### 🚀 Technologies I Use:
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="React Router" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg" alt="Axios" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="Chakra UI" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="Netlify" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="Stripe" width="60" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL" width="60" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg" alt="Auth0" width="60" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-ar21.svg" alt="Framer" width="70" height="70" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" width="70" height="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+</p>
+
+---
+
+💻IF you Need Help with the MERN Stack, Programming Problems, or Career Advice?
+ 📫 How to Reach Me:
+ - Discord: Join My Server
+ - LinkedIn: [baker obid](https://www.linkedin.com/in/baker-obid-112575332/)
+
+
+### 💼 Experience:
+I’ve built my programming knowledge through:
+- University studies - Computer Engineering
+- Online platforms like YouTube, Udemy, and official documentation
+- Building real-world projects that showcase my expertise in web development and problem-solving.
+- Managing a team to build an open source project
+
+### 🔮 Future Goals:
+- Master backend development and become a **top-level Node.js consultant**.
+- Build complex systems with testing, security, and scalable deployment strategies.
+- Create innovative tools and applications that solve real-world problems.
+
+---
+
+### 🎉 Fun Fact:
+- I'm always ready to tackle new challenges and learn cutting-edge technologies!
+- I love solving coding problems and building systems that make life easier.
