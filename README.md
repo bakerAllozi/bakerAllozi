@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baker Allozi</h1>
 <h3 align="center">A skilled frontend developer from Jordan 🚀</h3>
 
-<h4  align="center"> Skilled in JavaScript,Typescript,React,Next.js,Redux.js, and diverse React libraries. A versatile software developer who started with Kotlin in 2020, moved on to C++ and Python for tackling problem-solving and data structures, and has been passionately focused on web development since 2022.</h4>
+<h4  align="center"> Skilled in JavaScript,Typescript,React,Next.js,Redux.js, and diverse React libraries. A versatile software developer who started with Kotlin in 2020, moved on to C++ and Python for tackling problem-solving and data structures in LeetCode and codewars over 100 100 Medium and Hard Problems , and has been passionately focused on web development since 2022.</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bakerAllozi&label=Profile%20views&color=0e75b6&style=flat" alt="bakerAllozi" />
@@ -62,8 +62,9 @@
 
 ### 💼 Experience:
 I’ve built my programming knowledge through:
-- University studies - Computer Engineering
+- University studies - Computer Engineering Specialized as a software engineer
 - Online platforms like YouTube, Udemy, and official documentation
+- many Medium and Hard Problems in JavaScript,Typescript with LeetCode && Codewars 
 - Building real-world projects that showcase my expertise in web development and problem-solving.
 - Managing a team to build an open source project
 
