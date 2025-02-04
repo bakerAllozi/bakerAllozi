@@ -38,7 +38,9 @@
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jestjsio" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"   width="40" height="40"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="Netlify" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -48,10 +50,9 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="Stripe" width="60" height="60" />
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL" width="60" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg" alt="Auth0" width="60" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-ar21.svg" alt="Framer" width="70" height="70" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" width="70" height="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg"  width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg" alt="Auth0" width="70" height="60" />
 </p>
 
 ---
@@ -74,8 +75,6 @@ I’ve built my programming knowledge through:
 - Master backend development and become a **top-level Node.js consultant**.
 - Build complex systems with testing, security, and scalable deployment strategies.
 - Create innovative tools and applications that solve real-world problems.
-
----
 
 ### 🎉 Fun Fact:
 - I'm always ready to tackle new challenges and learn cutting-edge technologies!
