@@ -37,6 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="Chakra UI" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jestjsio" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"  width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="Netlify" width="40" height="40" />
@@ -44,7 +45,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />  
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="Stripe" width="60" height="60" />
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40" />
