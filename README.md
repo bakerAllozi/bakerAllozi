@@ -70,11 +70,6 @@ I’ve built my programming knowledge through:
 - Building real-world projects that showcase my expertise in web development and problem-solving.
 - Managing a team to build an open source project
 
-### 🔮 Future Goals:
-- Master backend development and become a **top-level Node.js consultant**.
-- Build complex systems with testing, security, and scalable deployment strategies.
-- Create innovative tools and applications that solve real-world problems.
-
 ### 🎉 Fun Fact:
 - I'm always ready to tackle new challenges and learn cutting-edge technologies!
 - I love solving coding problems and building systems that make life easier.
