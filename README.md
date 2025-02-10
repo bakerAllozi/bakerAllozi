@@ -68,7 +68,7 @@ I’ve built my programming knowledge through:
 - Online platforms like YouTube, Udemy, and official documentation
 - many Medium and Hard Problems in JavaScript,Typescript with LeetCode && Codewars 
 - Building real-world projects that showcase my expertise in web development and problem-solving.
-- Managing a team to build an open source project
+- Managing a team to build an open source project[Click here to view the organization's presentation](https://github.com/E-commerce-baker)
 
 ### 🎉 Fun Fact:
 - I'm always ready to tackle new challenges and learn cutting-edge technologies!
