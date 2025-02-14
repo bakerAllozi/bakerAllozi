@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baker Allozi</h1>
 <h3 align="center">A skilled frontend developer from Jordan 🚀</h3>
 
-<h4  align="center"> Skilled in JavaScript,Typescript,React,Next.js,Redux.js, and diverse React libraries. A versatile software developer who started with Kotlin in 2020, moved on to C++ and Python for  problem-solving and data structures || LeetCode and codewars many Medium and Hard Problems , and has been passionately focused on web development since 2022.</h4>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bakerAllozi&label=Profile%20views&color=0e75b6&style=flat" alt="bakerAllozi" />
 </p>
@@ -13,21 +11,14 @@
   </a>
 </p>
 
----
-
 ### 🟢 About Me:
-- 🌟 **A Frontend Specialist**: I always use **React.js** and modern technologies like **Next.js** to build responsive and high-performing web apps.
-- 📚 **Currently Learning**: React, Redux, Next.js, and real-time systems with Supabase.
-- 🛠️ **What I’m Working On**:  
-  - Developing **large-scale full-stack projects** with seamless integration of frontend and backend systems.  
-  - Connecting **multiple applications** with shared databases to create robust and scalable solutions.  
-  - Adding advanced features like **real-time chat** and **presence tracking**.
-
+- Skilled in JavaScript,Typescript,React,Next.js,Redux.js, and diverse React libraries.
+-  A versatile software developer who started with Kotlin in 2020, moved on to C++ and Python for  problem-solving and data structures || LeetCode and codewars many Medium and Hard Problems
+- and has been passionately focused on web development since 2022.
 
 ### 🚀 Technologies I Use:
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="React Router" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40" />
@@ -54,9 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg" alt="Auth0" width="70" height="60" />
 </p>
 
----
-
-💻IF you Need Help with the MERN Stack, Programming Problems, or Career Advice?
+💻->IF you Need Help with the MERN Stack, Programming Problems, or Career Advice?
  📫 How to Reach Me:
  - Discord: Join My Server
  - LinkedIn: [baker obid](https://www.linkedin.com/in/baker-obid-112575332/)
@@ -68,7 +57,7 @@ I’ve built my programming knowledge through:
 - Online platforms like YouTube, Udemy, and official documentation
 - many Medium and Hard Problems in JavaScript,Typescript with LeetCode && Codewars 
 - Building real-world projects that showcase my expertise in web development and problem-solving.
-- Managing a team to build an open source project[Click here to view the organization's presentation](https://github.com/E-commerce-baker)
+- Managing a team to build an open source project [Click here to view the organization's presentation](https://github.com/E-commerce-baker)
 
 ### 🎉 Fun Fact:
 - I'm always ready to tackle new challenges and learn cutting-edge technologies!
