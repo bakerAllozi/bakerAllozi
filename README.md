@@ -12,9 +12,11 @@
 </p>
 
 ### 🟢 About Me:
+- Before I became a full stack I have 3 years of experience in frontend developer
 - Skilled in JavaScript,Typescript,React,Next.js,Redux.js, and diverse React libraries.
 -  A versatile software developer who started with Kotlin in 2020, moved on to C++ and Python for  problem-solving and data structures || LeetCode and codewars many Medium and Hard Problems
 -  has been passionately focused on web development since 2022.
+-  
 
 ### 🚀 Technologies I Use:
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
