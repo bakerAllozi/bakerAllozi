@@ -25,7 +25,6 @@
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg" alt="Axios" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="Chakra UI" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jestjsio" width="40" height="40" />
